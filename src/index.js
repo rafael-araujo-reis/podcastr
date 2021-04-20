@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import ReactDOM from 'react-dom'; //integration react with web
 import App from './App';
 ReactDOM.render(
   <App />,
